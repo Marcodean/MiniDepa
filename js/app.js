@@ -1,0 +1,1 @@
+lightbox.option({'resizeDuration':300,'wrapAround':!0})
